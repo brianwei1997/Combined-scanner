@@ -21,4 +21,5 @@ Just a scanning script that founding fingerprints that lead to vulnerabilities. 
 
   - Target File example:
   > http://test.com
+  > 
   > https://test1.com
