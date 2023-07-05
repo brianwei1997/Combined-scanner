@@ -27,6 +27,9 @@ Issues welcomed!
 
 
 # Thanks
+
 Inspired by Rabbitmask's scanning script, convert it into the usage of other vulns
+
 Refer to:
+
 https://github.com/rabbitmask/SB-Actuator
