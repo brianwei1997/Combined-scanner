@@ -9,16 +9,16 @@ Just a scanning script that founding fingerprints that lead to vulnerabilities. 
 - Scanning unauthorized access of swagger documents
 - Scanning nacos console
 
-  #Preparation
+# Preparation
   pip3 install -r requirements
 
-  #Usage
-  Single Target mode:
+# Usage
+  - Single Target mode:
   python3 main.py -t [url]
 
-  Multi Targets mode:
+  - Multi Targets mode:
   > python3 main.py -f [filepath]
 
-  Target File example:
+  - Target File example:
   > http://test.com
   > https://test1.com
