@@ -1,5 +1,6 @@
 # Combined-scanner
 Just a scanning script that founding fingerprints that lead to vulnerabilities. Concluded from daily works
+Issues welcomed!
 
 # Abilities
 
@@ -23,3 +24,9 @@ Just a scanning script that founding fingerprints that lead to vulnerabilities. 
   > http://test.com
 >  
   > https://test1.com
+
+
+# Thanks
+Inspired by Rabbitmask's scanning script, convert it into the usage of other vulns
+Refer to:
+https://github.com/rabbitmask/SB-Actuator
