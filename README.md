@@ -30,6 +30,6 @@ Issues welcomed!
 
 Inspired by Rabbitmask's scanning script, convert it into the usage of other vulns
 
-Refer to:
+Refers to:
 
 https://github.com/rabbitmask/SB-Actuator
