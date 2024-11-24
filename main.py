@@ -67,7 +67,7 @@ def swaggerCheck(url):
     for i in pathlist:
         url_tar=url+i
         r=requests.get(url_tar)
-        if r.status_code == 200:
+        if r.status_code == 200 and "Swagger" in r.text:
             print("Swagger Documents may found,Check Path:{}".format(url_tar))
             saveinfo("Swagger Documents may found,Check Path:{}".format(url_tar))
 
